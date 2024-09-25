@@ -60,6 +60,6 @@ Each project is deployed using GitHub Pages, Netlify, or Vercel for easy access.
 
 ## 📱 **Contact Information**
 If you have any questions or would like to collaborate, feel free to reach out:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/pavan-kumar-pattipu)
-- **GitHub**: [Your GitHub Profile](https://github.com/PavanKumarc8)
+- **Email**: pavankumar48903@gmail.com
+- **LinkedIn**: [](https://linkedin.com/in/pavan-kumar-pattipu)
+- **GitHub**: [](https://github.com/PavanKumarc8)
