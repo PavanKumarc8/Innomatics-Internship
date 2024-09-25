@@ -61,5 +61,5 @@ Each project is deployed using GitHub Pages, Netlify, or Vercel for easy access.
 ## 📱 **Contact Information**
 If you have any questions or would like to collaborate, feel free to reach out:
 - **Email**: pavankumar48903@gmail.com
-- **LinkedIn**: [](https://linkedin.com/in/pavan-kumar-pattipu)
-- **GitHub**: [](https://github.com/PavanKumarc8)
+- **LinkedIn**: [Pavan Kumar Pattipu](https://linkedin.com/in/pavan-kumar-pattipu)
+- **GitHub**: [PavanKumarc8](https://github.com/PavanKumarc8)
